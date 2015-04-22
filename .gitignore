@@ -1,0 +1,8 @@
+prograp p1;
+var a: string;
+begin
+writeln('ne dlya togo tebea rojali, ctob ti za hlebom ne mog shoditi!!');
+readln(a);
+if a='da' then writeln('molodec, horosiy malcik!') ELSE
+writeln('shob ti zdoh, soplya maloletnaya!');
+end.
