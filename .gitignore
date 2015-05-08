@@ -1,4 +1,4 @@
-prograp p1;
+program p1;
 var a: string;
 begin
 writeln('ne dlya togo tebea rojali, ctob ti za hlebom ne mog shoditi!!');
